@@ -1,0 +1,27 @@
+_repo: Idling-in-Italystudies-of-literature-and-of-life_41934
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41934-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Collins, Joseph
+    birthdate: 1866
+    deathdate: 1950
+    gutenberg_agent_id: '45849'
+    url: http://www.gutenberg.org/2009/agents/45849
+description: ''
+gutenberg_bookshelf: Italy
+gutenberg_issued: '2013-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41934'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Italian literature -- History and criticism'
+title: 'Idling in Italy: Studies of literature and of life'
+url: http://www.gutenberg.org/ebooks/41934
